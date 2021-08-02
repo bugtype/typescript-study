@@ -14,6 +14,12 @@
 
 
 
+&gt;&gt; 강의 유튜브로 보기
+
+{% embed url="https://www.youtube.com/playlist?list=PLjQV3hketAJmXGaWCMGB9-085EiefWcyw" %}
+
+
+
 
 
 
